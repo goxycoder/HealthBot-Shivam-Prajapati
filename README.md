@@ -3,3 +3,4 @@ This HealthBot is a healthcare chatbot which looks upon various symptoms or issu
 
 The HealthBot empowers healthcare organizations to build and deploy powerful tolls with built in symptoms and cure information.This healthcare chatbot system includes the symptoms and information about more than 463+ diseases .This health Bot empowers with the capability of IBM Cloud and IBM Watson.
 
+Try HealthBot : https://sites.google.com/view/shivam-prajapati-goxycoder/my-projects?authuser=0
